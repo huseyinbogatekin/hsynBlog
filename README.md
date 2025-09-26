@@ -1,1 +1,4 @@
-wwww.huseyinbogatekin.github.io
+# Kişisel Blog Projesi
+
+Bu proje, Web Teknolojileri ve Programlama dersi kapsamında hazırlanmıştır.  
+Siteye buradan ulaşabilirsiniz: [Blog Sayfam](https://huseyinbogatekin.github.io/hsynBlog/)
